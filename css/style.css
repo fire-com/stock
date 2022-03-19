@@ -1,0 +1,26 @@
+.bin-a {
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: solid orange 3px;
+    border-radius: 50px;
+    transition: all ease 0.3s;
+}
+
+.bin-a:hover {
+    color: black;
+    background-color: rgb(247, 175, 112);
+}
+
+body {
+    background-color: #ADD8E6;
+}
+
+
+/* 画面幅の99%の幅で画像を表示 */
+
+.image-vw {
+    width: 99vw;
+}
